@@ -1,1 +1,1 @@
-# dip
+# diplom_itog
